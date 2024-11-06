@@ -10,7 +10,6 @@
     <div>
         <header>
             <nav><a href="/">HOME</a></nav>
-            <nav><a href="/login">LOGIN</a></nav>
         </header>
         <div>
             {{-- OUR Content --}}
